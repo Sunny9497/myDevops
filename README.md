@@ -1,2 +1,0 @@
-# myDevops
-My Devops Class
